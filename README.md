@@ -39,3 +39,6 @@ Conditional Statements and Loops: Evaluate password attributes and calculate str
 Input/Output Operations: Handle user input and display feedback.
 
 Key Insights:- The File Integrity Checker tool ensures the authenticity of files by comparing their SHA-256 hash values. It detects unauthorized changes or corruption, helping to maintain data security. The tool scans entire directories, including subfolders, and classifies files based on their extensions. This provides users with clear insights into the types of files being verified. Its simple, readable reports allow quick assessment of file integrity and prompt action when needed. By safeguarding file integrity, the tool helps protect sensitive information and ensures data accuracy in professional environments.
+
+# OUTPUT OF THE TASK : ![WhatsApp Image 2025-01-03 at 14 48 57_b0b97443](https://github.com/user-attachments/assets/2c913915-c122-4de6-9a54-c1c2cbc4f0fa)
+
