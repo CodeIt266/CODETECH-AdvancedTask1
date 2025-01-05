@@ -30,13 +30,13 @@ Key Activities:-
 
 Technologies Used:-
 
-Python: Used to implement the password strength logic and scoring.
+1. Python: Used to implement the password strength logic and scoring.
 
-string Module (Python): Helps access character sets for complexity checks.
+2. string Module (Python): Helps access character sets for complexity checks.
 
-Conditional Statements and Loops: Evaluate password attributes and calculate strength.
+3. Conditional Statements and Loops: Evaluate password attributes and calculate strength.
 
-Input/Output Operations: Handle user input and display feedback.
+4. Input/Output Operations: Handle user input and display feedback.
 
 Key Insights:- The File Integrity Checker tool ensures the authenticity of files by comparing their SHA-256 hash values. It detects unauthorized changes or corruption, helping to maintain data security. The tool scans entire directories, including subfolders, and classifies files based on their extensions. This provides users with clear insights into the types of files being verified. Its simple, readable reports allow quick assessment of file integrity and prompt action when needed. By safeguarding file integrity, the tool helps protect sensitive information and ensures data accuracy in professional environments.
 
